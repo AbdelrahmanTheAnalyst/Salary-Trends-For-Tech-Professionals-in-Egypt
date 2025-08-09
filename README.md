@@ -1,5 +1,3 @@
-# Salary-Trends-For-Tech-Professionals-in-Egypt
-Salary Trends For Tech Professionals in Egypt
 # Salary Trends for Tech Professionals in Egypt
 
 Analyze and visualize current salary trends for tech roles in Egypt using real data.

@@ -1,17 +1,28 @@
 # Salary-Trends-For-Tech-Professionals-in-Egypt
 Salary Trends For Tech Professionals in Egypt
-📊 Key insights uncovered:
- • Highest-paying roles: Senior ML, DevOps, and Data Engineers
- • Remote and hybrid jobs pay more than on-site roles
- • Full-time employees earn significantly more than part-time
- • Multi-site and international companies offer higher salaries
- • Outliers and data quality checks ensure clean reporting
-📌 Tools used:
- Power BI, DAX, Power Query.
-This project helped me strengthen my skills in:
- ✔️Data visualization
- ✔️ Interactive dashboards with slicers and filters
- ✔️ Data validation and cleaning logic
-🧠 Curious about tech salaries in Egypt?
- Or want a custom dashboard like this for your company?
- Let’s connect. I'm open to freelance work and data projects!
+# Salary Trends for Tech Professionals in Egypt
+
+Analyze and visualize current salary trends for tech roles in Egypt using real data.
+
+## Key Insights
+
+- Highest-paying roles include Senior Machine Learning Engineers, DevOps Engineers, and Data Engineers  
+- Remote and hybrid job roles offer higher salaries compared to on-site positions  
+- Full-time employees earn significantly more than part-time or contract workers  
+- Multi-site and international companies provide better compensation packages  
+- Data cleaning and outlier detection ensure reliable, accurate reporting  
+
+## Tools & Technologies
+
+- Power BI for interactive dashboards and data visualization  
+- DAX and Power Query for data transformation, cleaning, and calculation  
+
+## Skills Developed
+
+- Creating insightful, interactive dashboards with slicers and filters  
+- Applying data validation and cleaning logic to improve dataset quality  
+- Presenting complex salary data in an accessible visual format  
+
+## Interested?
+
+If you want to explore tech salary trends in Egypt or need a customized salary dashboard for your company, feel free to connect. Open to freelance data analysis and visualization projects.
